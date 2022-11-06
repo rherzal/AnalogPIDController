@@ -5567,7 +5567,7 @@
   (gr_text "Radu Herzal\n" (at 102.5 67.5 90) (layer "F.SilkS") (tstamp 5d0afad5-a838-40b1-932f-ece1cf582a4c)
     (effects (font (size 2 2) (thickness 0.3)))
   )
-  (gr_text "Made with the help of:\ncircuiteimprimate.ro\n" (at 31.5 67 90) (layer "F.SilkS") (tstamp c8c04c89-a99a-49ae-a36f-6d35a0f40848)
+  (gr_text "Made with the help of:\ncircuite-imprimate.ro\n" (at 31.5 67 90) (layer "F.SilkS") (tstamp c8c04c89-a99a-49ae-a36f-6d35a0f40848)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (gr_text "{\n  \"ViaStitching\": \"0.1\",\n  \"stitch_zone_0\": {\n    \"HSpacing\": \"5\",\n    \"VSpacing\": \"5\",\n    \"Clearance\": \"0.5\",\n    \"Randomize\": false\n  }\n}" (at 0 0) (layer "User.9") (tstamp e38fae83-a9f9-412d-ba6d-eea407424993)
